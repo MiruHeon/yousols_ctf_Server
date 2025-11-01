@@ -1,5 +1,10 @@
 # YOUSOL's CTF SERVER
 
+Date Prototype was developed
+```
+2025.08.02
+```
+
 how it works?
 
 ```
